@@ -1,7 +1,5 @@
 # TalkFlow - Full-Stack Realtime Chat Application
 
-![Demo App](/frontend/public/screenshot-for-readme.png)
-
 A full-stack, real-time messaging application built to enable seamless 1-on-1 communication. Engineered with a focus on low latency, secure authentication, and a responsive, dynamic user interface.
 
 ## 🚀 Features
